@@ -1,0 +1,66 @@
+h2{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #a3a0a0;
+}
+
+h3{
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu{
+    list-style: none;
+    margin-top: 3px; 
+}
+.menu li{
+    display: inline;
+    margin-right: 40px;
+}
+.menu li a{
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+a{
+    color: burlywood;
+}
+a :hover{
+    color: aqua;
+}
+p{
+    text-align: center; 
+    font-family:Verdana;
+    font-size:14px;
+    
+}
+ol{
+    margin-left: 80px; 
+    font-family:Verdana;
+    font-size:22px;
+    line-height:35px
+}
+
+.zona{
+    margin: auto; width: 75%; overflow: hidden;
+}
+       
+.mensaje{
+    text-align: center; 
+    font-family:Verdana;
+    font-size:22px;
+    line-height:35px;
+    
+}
+.cursos {
+    font-size:22px;
+    font-family:Verdana;
+}
+.pie{
+    background-color: black; color: white; width: 100%;
+    padding: 5px;
+}
